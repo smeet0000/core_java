@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class maximum {
+public class Maximum {
     public static void main(String[] args) {
         
         // Create Scanner object to take input from user
