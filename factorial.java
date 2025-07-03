@@ -1,7 +1,7 @@
 //Q2. Write a Java program to calculate factorial of given number. eg.3!=3*2*1=6
 import java.util.Scanner;
 
-public class factorial {
+public class Factorial {
     public static void main(String[] args) {
         
         // Create Scanner object for user input
